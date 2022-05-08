@@ -1,0 +1,21 @@
+{
+  "name": "excalibur-zen",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/excalibur-zen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mzaini30/excalibur-zen/issues"
+  },
+  "homepage": "https://github.com/mzaini30/excalibur-zen#readme"
+}

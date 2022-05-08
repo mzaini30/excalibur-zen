@@ -1,1 +1,3 @@
-# excalibur-zen
+# Excalibur
+
+Package ini cuma untuk frontend.
