@@ -1,6 +1,6 @@
 # Excalibur
 
-Package ini adalah tools untuk memanggil sebuah tools backend bernama Excalibur.
+Package ini adalah tools untuk memanggil sebuah tools backend bernama [Excalibur](https://github.com/mzaini30/excalibur).
 
 ## Instalasi
 
