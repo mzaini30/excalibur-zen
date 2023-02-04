@@ -1,18 +1,20 @@
 {
   "name": "excalibur-zen",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Tools frontend untuk memanggil Excalibur",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mzaini30/excalibur-zen.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "JavaScript",
+    "Excalibur",
+    "Frontend",
+    "Tools"
+  ],
+  "author": "Zen",
+  "license": "MIT",
   "type": "module",
   "bugs": {
     "url": "https://github.com/mzaini30/excalibur-zen/issues"
